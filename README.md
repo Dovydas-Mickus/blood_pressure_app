@@ -1,16 +1,16 @@
-# blood_pressure_app
+# Blood Pressure Tracker
 
-A new Flutter project.
+**Technologies:** Flutter, Hive
+
+A simple cross-platform mobile app to track daily blood pressure readings and monitor trends. Designed for personal health management, with secure local data storage.
+
+## Key Features
+- Log daily blood pressure and pulse
+- View historical readings and trends
+- Local storage with Hive, no cloud required
+- User-friendly and intuitive interface
 
 ## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Clone the repository
+2. Install Flutter dependencies
+3. Run the app on your device or emulator
